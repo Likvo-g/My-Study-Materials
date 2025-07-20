@@ -15,6 +15,10 @@ Currently, there is only the PDF version. After the entire book is completed, I 
 
 2025.07.12
     Chapter 2 for Complex Function including notes and solutions.
+
+2025.07.21
+    Chapter 3 for Complex Function notes.
+    
 我就读于中国科学技术大学计算机科学与技术学院。
 记录我的学习情况，当有新进展时进行更新。（从大一暑假开始）
 我会在这里分享我对各种教材或考试试卷的解答！
